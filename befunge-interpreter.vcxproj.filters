@@ -30,4 +30,12 @@
       <Filter>Header Files</Filter>
     </ClInclude>
   </ItemGroup>
+  <ItemGroup>
+    <None Include="examples\hello_world.bf">
+      <Filter>Resource Files</Filter>
+    </None>
+    <None Include="examples\sieve_of_eratosthenes.bf">
+      <Filter>Resource Files</Filter>
+    </None>
+  </ItemGroup>
 </Project>
