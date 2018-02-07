@@ -126,6 +126,9 @@
     <None Include="examples\hello_world.bf" />
     <None Include="examples\sieve_of_eratosthenes.bf" />
   </ItemGroup>
+  <ItemGroup>
+    <Text Include="examples\credit.txt" />
+  </ItemGroup>
   <Import Project="$(VCTargetsPath)\Microsoft.Cpp.targets" />
   <ImportGroup Label="ExtensionTargets">
   </ImportGroup>

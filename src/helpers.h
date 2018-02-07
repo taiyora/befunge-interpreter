@@ -5,8 +5,10 @@
 #include <Windows.h>
 
 #define C_BLACK 0
+#define C_WHITE 7
 #define C_GRAY 8
 #define C_LAQUA 11
+#define C_LPURPLE 13
 
 static void log(std::string message) {
 	std::cout << message << std::endl;
